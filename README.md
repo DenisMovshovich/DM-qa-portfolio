@@ -1,0 +1,1 @@
+My name is Denis Movshovich! I'm responsible and self-motivated manual QA Engineer. I have some experience in leading and in automated testing (Java + Cucumber + Chrome Driver + Selenium). I'm also interested in mobile testing as a new experience.
